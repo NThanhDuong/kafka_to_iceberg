@@ -1,0 +1,6 @@
+catalog:
+  smartux:
+    uri: thrift://ip:port/
+    s3.endpoint:
+    s3.access-key-id:
+    s3.secret-access-key:
